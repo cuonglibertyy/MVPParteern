@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPParteern</string>
+    <string name="check">Yêu cầu nhập đầy đủ ký tự</string>
+    <string name="error">Thất bại</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="loading_view_label_title">Loading</string>
+</resources>
